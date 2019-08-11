@@ -72,3 +72,5 @@ The activity names and subject numbers columns were renamed to 'activity' and 's
 A second, summarised tidy data set containing the average for each variable, after grouping by activity and subject, was
 created using the **group_by()** and **summarise_if()** functions, the latter of which averaged a column in the data frame
 if it met the criteria **is.numeric()**.
+
+The final summarised and data set, called ```tidy_summary``` was written to ```tidy_summary.txt```
