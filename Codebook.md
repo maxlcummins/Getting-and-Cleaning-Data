@@ -3,8 +3,6 @@
 The script ```Tidy_UCI_HAR.R``` downloads, extracts, reads, tidies and summarises data from the
 UCI HAR Dataset for the Getting and Cleaning Data Project.
 
-The tidy datasheet can be found here, the summary file can be found here while the README can be found here.
-
 
 
 ## 1.  Downloading and extracting the database files
